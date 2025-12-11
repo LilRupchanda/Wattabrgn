@@ -1,6 +1,6 @@
 import { Search, ShoppingBag, MessageCircle, User, Menu } from 'lucide-react';
 import { useState } from 'react';
-import logoImage from '../assets/wattabrgn-logo.png';
+import logoImage from '../assets/WATTABRGN.png';
 
 export function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
